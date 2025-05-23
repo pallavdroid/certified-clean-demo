@@ -1,5 +1,4 @@
 import "../styles/globals.css";
-import { useState } from "react";
 
 const MOCK = {
   "IGEL-001": { verdict: "clean", diff: [] },
