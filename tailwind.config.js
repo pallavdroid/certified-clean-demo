@@ -1,5 +1,7 @@
+js
+
 module.exports = {
-  content: ["./pages/**/*.{js,ts,jsx,tsx}"],
+  content: ["./pages/**/*.{js,jsx}"],
   theme: { extend: {} },
   plugins: [],
 };
