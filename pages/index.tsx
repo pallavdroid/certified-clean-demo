@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import { useState } from "react";
+import "../styles/globals.css";
 
 const MOCK = {
   "IGEL-001": { verdict: "clean", diff: [] },
